@@ -3,7 +3,7 @@ Test
 ~~strikethrough~~
 **bold**
 **bold _and_ italics**
-**italics**
+*italics*
 __bold__
 # header1
 ## header2
